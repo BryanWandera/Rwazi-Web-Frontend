@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="434" height="434" viewBox="0 0 434 434">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_156" data-name="Rectangle 156" width="434" height="434" fill="none" stroke="#3885a3" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_33" data-name="Mask Group 33" opacity="0.07" clip-path="url(#clip-path)">
+    <g id="Group_358" data-name="Group 358" transform="translate(-747.756 -90.758)">
+      <g id="Group_354" data-name="Group 354" transform="translate(718.286 0) rotate(59)">
+        <line id="Line_446" data-name="Line 446" x2="566.5" transform="translate(0 5.945)" fill="none" stroke="#3885a3" stroke-width="35"/>
+        <line id="Line_447" data-name="Line 447" y1="590.213" x2="355.127" transform="matrix(0.469, -0.883, 0.883, 0.469, 388.746, 313.559)" fill="none" stroke="#3885a3" stroke-width="35"/>
+      </g>
+      <g id="Group_355" data-name="Group 355" transform="translate(646.918 0) rotate(59)">
+        <line id="Line_448" data-name="Line 448" x2="566.5" transform="translate(0 5.945)" fill="none" stroke="#3885a3" stroke-width="35"/>
+        <line id="Line_449" data-name="Line 449" y1="590.213" x2="355.127" transform="matrix(0.469, -0.883, 0.883, 0.469, 388.746, 313.559)" fill="none" stroke="#3885a3" stroke-width="35"/>
+      </g>
+      <g id="Group_356" data-name="Group 356" transform="translate(577.65 0) rotate(59)">
+        <line id="Line_450" data-name="Line 450" x2="566.5" transform="translate(0 5.945)" fill="none" stroke="#3885a3" stroke-width="35"/>
+        <line id="Line_451" data-name="Line 451" y1="590.213" x2="355.127" transform="matrix(0.469, -0.883, 0.883, 0.469, 388.746, 313.559)" fill="none" stroke="#3885a3" stroke-width="35"/>
+      </g>
+      <g id="Group_357" data-name="Group 357" transform="translate(506.283 0) rotate(59)">
+        <line id="Line_452" data-name="Line 452" x2="566.5" transform="translate(0 5.945)" fill="none" stroke="#3885a3" stroke-width="35"/>
+        <line id="Line_453" data-name="Line 453" y1="590.213" x2="355.127" transform="matrix(0.469, -0.883, 0.883, 0.469, 388.746, 313.559)" fill="none" stroke="#3885a3" stroke-width="35"/>
+      </g>
+    </g>
+    <g id="Group_363" data-name="Group 363" transform="matrix(-0.469, 0.883, -0.883, -0.469, 1409.184, -213.495)">
+      <g id="Group_359" data-name="Group 359" transform="translate(212.002 922.822) rotate(-59)">
+        <line id="Line_454" data-name="Line 454" x2="566.5" transform="translate(0 584.701)" fill="none" stroke="#3885a3" stroke-width="35"/>
+        <line id="Line_455" data-name="Line 455" x2="355.127" y2="590.213" transform="matrix(0.469, 0.883, -0.883, 0.469, 909.873, 0)" fill="none" stroke="#3885a3" stroke-width="35"/>
+      </g>
+      <g id="Group_360" data-name="Group 360" transform="translate(140.635 922.822) rotate(-59)">
+        <line id="Line_456" data-name="Line 456" x2="566.5" transform="translate(0 584.701)" fill="none" stroke="#3885a3" stroke-width="35"/>
+        <line id="Line_457" data-name="Line 457" x2="355.127" y2="590.213" transform="matrix(0.469, 0.883, -0.883, 0.469, 909.873, 0)" fill="none" stroke="#3885a3" stroke-width="35"/>
+      </g>
+      <g id="Group_361" data-name="Group 361" transform="translate(71.367 922.822) rotate(-59)">
+        <line id="Line_458" data-name="Line 458" x2="566.5" transform="translate(0 584.701)" fill="none" stroke="#3885a3" stroke-width="35"/>
+        <line id="Line_459" data-name="Line 459" x2="355.127" y2="590.213" transform="matrix(0.469, 0.883, -0.883, 0.469, 909.873, 0)" fill="none" stroke="#3885a3" stroke-width="35"/>
+      </g>
+      <g id="Group_362" data-name="Group 362" transform="translate(0 922.822) rotate(-59)">
+        <line id="Line_460" data-name="Line 460" x2="566.5" transform="translate(0 584.701)" fill="none" stroke="#3885a3" stroke-width="35"/>
+        <line id="Line_461" data-name="Line 461" x2="355.127" y2="590.213" transform="matrix(0.469, 0.883, -0.883, 0.469, 909.873, 0)" fill="none" stroke="#3885a3" stroke-width="35"/>
+      </g>
+    </g>
+  </g>
+</svg>
