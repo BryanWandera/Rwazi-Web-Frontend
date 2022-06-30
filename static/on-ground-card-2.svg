@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="545" height="393" viewBox="0 0 545 393">
+  <defs>
+    <filter id="Rectangle_11" x="0" y="0" width="545" height="393" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_376" data-name="Group 376" transform="translate(-678 -1389)">
+    <g transform="matrix(1, 0, 0, 1, 678, 1389)" filter="url(#Rectangle_11)">
+      <rect id="Rectangle_11-2" data-name="Rectangle 11" width="515" height="363" rx="26" transform="translate(5 5)" fill="#f8fbfd"/>
+    </g>
+    <text id="Accurate_Analytics" data-name="Accurate Analytics" transform="translate(751 1426)" fill="#17130d" font-size="30" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="38.37" y="29">Accurate Analytics</tspan></text>
+    <text id="Get_a_taste_of_our_precise_data_from_over_60_countries_3_continents._Filter_out_what_you_need_with_our_intuitive_platform_to_meet_your_needs." data-name="Get a taste of our precise data from over 60 countries &amp; 3 continents. Filter out what you need with our intuitive platform to meet your needs." transform="translate(716 1576)" fill="#17130d" font-size="25" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="24">Get a taste of our precise data from </tspan><tspan x="0" y="54">over 60 countries &amp; 3 continents. </tspan><tspan x="0" y="84">Filter out what you need with our </tspan><tspan x="0" y="114">intuitive platform to meet your </tspan><tspan x="0" y="144">needs.</tspan></text>
+    <g id="Group_6" data-name="Group 6" transform="translate(900 1473)">
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="75" height="75" fill="none"/>
+      <path id="Path_22" data-name="Path 22" d="M44,156.953V136H60.3" transform="translate(-31.195 -96.422)" fill="none" stroke="#066083" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <line id="Line_1" data-name="Line 1" x1="58" transform="translate(8 61)" fill="none" stroke="#066083" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <path id="Path_23" data-name="Path 23" d="M100,122.922V88h16.3" transform="translate(-70.898 -62.391)" fill="none" stroke="#066083" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <rect id="Rectangle_14" data-name="Rectangle 14" width="16" height="49" transform="translate(45 12)" fill="none" stroke="#066083" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    </g>
+  </g>
+</svg>

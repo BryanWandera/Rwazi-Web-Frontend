@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="545" height="393" viewBox="0 0 545 393">
+  <defs>
+    <filter id="Rectangle_12" x="0" y="0" width="545" height="393" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_377" data-name="Group 377" transform="translate(-1235 -1389)">
+    <g transform="matrix(1, 0, 0, 1, 1235, 1389)" filter="url(#Rectangle_12)">
+      <rect id="Rectangle_12-2" data-name="Rectangle 12" width="515" height="363" rx="26" transform="translate(5 5)" fill="#f8fbfd"/>
+    </g>
+    <text id="Increased_Sales" data-name="Increased Sales" transform="translate(1308 1426)" fill="#17130d" font-size="30" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="64.11" y="29">Increased Sales</tspan></text>
+    <text id="Stay_one_step_ahead_of_your_competition_by_catching_distribution_gaps_correcting_pricing_promotional_issues." data-name="Stay one step ahead of your competition by catching distribution gaps, correcting pricing &amp; promotional issues." transform="translate(1273 1576)" fill="#17130d" font-size="25" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="24">Stay one step ahead of your </tspan><tspan x="0" y="54">competition by catching </tspan><tspan x="0" y="84">distribution gaps, correcting pricing </tspan><tspan x="0" y="114">&amp; promotional issues.</tspan></text>
+    <g id="Group_7" data-name="Group 7" transform="translate(1456 1471)">
+      <rect id="Rectangle_15" data-name="Rectangle 15" width="77" height="77" fill="none"/>
+      <path id="Path_24" data-name="Path 24" d="M89.75,96.125H32V48" transform="translate(-22.375 -33.563)" fill="none" stroke="#066083" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <path id="Path_25" data-name="Path 25" d="M84.938,64,60.875,88.063,51.25,78.438,32,97.688" transform="translate(-22.375 -44.75)" fill="none" stroke="#066083" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <path id="Path_26" data-name="Path 26" d="M180.031,76.031V64H168" transform="translate(-117.469 -44.75)" fill="none" stroke="#066083" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    </g>
+  </g>
+</svg>
