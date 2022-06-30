@@ -13,10 +13,12 @@ h1{
     margin: 0;
 }
 h2{
+   
     font-size: 3em;
-    font-weight: 900;
+    font-weight: 700;
         color: #17130D;
         margin: 0;
+        margin-bottom: 4vh;
 }
 .blue-h3 {
     font-size: 2.6em;
@@ -82,10 +84,11 @@ a {
     color: white;
 }
 #fold{
-    height: 95vh;
+    /* height: 100vh; */
     display: block;
     align-items: center;
     text-align: center;
+    padding-top: 4vh;
 }
 #hero-section-grid {
     align-items: center;
@@ -95,6 +98,7 @@ a {
     text-align: left;
    
 }
+
 #hero-image {
     position: relative;
     width: 35vw;
@@ -145,13 +149,23 @@ a {
     top: 0;   
     z-index: 1;
 }
+#hero-section-column-2{
+    text-align: right;
+}
 .brand-logo-section h4 {
     margin-top: 4em;
 }
+
+#brand-logos-mobile {
+    display: none;
+}
+
+
+
 #on-ground-data-section{
     width: 100vw;
     text-align: center;
-    margin-top: 5em ;
+    margin-top: 9em ;
 }
 .body-text-container {
     margin-left: 10vw;
@@ -161,15 +175,18 @@ a {
 .body-text-container h2 {
     margin-top: 1.5em;
 }
+
+
 #on-ground-cards-grid{
     display: inline-grid;
     grid-template-columns: 33% 33% 33%;
-    width: 75vw;
+    /* width: 75vw; */
     margin-top: 4em;
 }
 .on-ground-card {
     width: 24vw;
 }
+
 #closer-look-section {
     height: 98vh;
     width: 100vw;
@@ -209,12 +226,11 @@ a {
 #grow-company-grid {
     display: inline-grid;
     grid-template-rows: 16% 16% 16% 16% 16% 16%   ;
-    grid-template-columns: 10% 90%;
-    width: 60vw;
+    grid-template-columns: 10% 90%;    
     row-gap: 2em;
     justify-content: space-between;
     align-content: center;
-    margin-top: 4em;
+    margin-top: e6m;
     margin-left: 3em;
 
 }
@@ -264,7 +280,8 @@ a {
 }
 #pricing-section-content {
     grid-row: 1;
-        grid-column: 1;
+    grid-column: 1;
+   
 }
 #price-cards-grid {
     display: inline-grid;
@@ -328,6 +345,118 @@ a {
         -webkit-transform: translateY(25%);
         -ms-transform: translateY(25%);
 }
+
+@media screen and (max-width: 1200px) {
+    #hero-section-grid {
+        grid-template-columns: 100%;
+    }
+
+    #hero-section-column-2 {
+        text-align: center;
+        margin-top: 3em;
+    }
+
+    #hero-image {
+        position: relative;
+        width: 75vw;
+        display: inline-block;
+        z-index: 10;
+    }
+
+    #brand-logos-mobile {
+        display: inline-block;
+    }
+
+    #brand-logos {
+        display: none;
+    }
+
+    h1 {
+        font-size: 3em;
+    }
+
+    h2 {
+        font-size: 2.5em;
+    }
+
+    .body-text-container {
+        margin-left: 4vw;
+        margin-right: 4vw;
+    }
+
+    #on-ground-cards-grid {
+        display: inline-grid;
+        grid-template-columns: 100%;
+        width: 80vw;
+        margin-top: 4em;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .on-ground-card {
+        position: relative;
+        display: inline-block;
+        width: 25em;
+
+    }
+
+    .blue-h3 {
+        font-size: 2.1em;
+        font-weight: 600;
+        color: #066083;
+    }
+    #price-cards-grid {
+            display: inline-grid;
+            grid-template-columns: 100%;
+            margin-top: 4em;
+    
+    }
+    .price-card {
+        width: 25em;
+    }
+    #past-clients-grid {
+            display: inline-grid;
+            grid-template-columns: 100%;
+          
+    
+     }
+     .past-client-card {
+        width: 25em;
+
+}
+        #ready-to-rwazi-grid {
+            display: inline-grid;
+            justify-items: center;
+            grid-template-columns: 100%;
+        }
+        #ready-to-rwazi-hero {
+                    width: 25em;
+                    display: inline-block;
+                    text-align: center;
+                    margin-left: 2em;
+        }
+        
+        #ready-to-rwazi-text-section {
+            
+                    text-align: center;
+                    top: 50%;
+                    translate: transformY(25%);
+                    -webkit-transform: translateY(25%);
+                 -ms-transform: translateY(25%);
+        }
+        #fold {
+                    /* height: 100vh; */
+                    display: block;
+                    align-items: center;
+                    text-align: center;
+                    padding-top: 4vh;
+                }
+                #ready-to-rwazi-section {
+                    margin-top: 5em;
+                }
+
+}
+
 #footer {
     background-color: black;
     color: white;
@@ -348,6 +477,7 @@ a {
     #footer-links-grid {
         grid-template-columns: 50% 50%;
         width: 90vw;
+        text-align: left;
     }
 
 }
