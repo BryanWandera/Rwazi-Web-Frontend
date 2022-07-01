@@ -377,10 +377,19 @@ a {
 }
 
 @media screen and (max-width: 1200px) {
-   
+    
     #hero-section-grid {
         grid-template-columns: 100%;
         margin-top: 10vh;
+    }
+    #on-ground-data-section p {
+        text-align: center;
+    }
+    #product-type-section p {
+        text-align: center;
+    }
+    #pricing-section p {
+        text-align: center;
     }
 
     #hero-section-column-2 {
