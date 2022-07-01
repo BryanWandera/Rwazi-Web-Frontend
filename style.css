@@ -358,17 +358,17 @@ a {
     grid-template-columns: 50% 50%;
 }
 #ready-to-rwazi-hero {
-    width: 40em;
+    width: 30em;
     display: inline-block;
     text-align: right;
     margin-left: 2em;
 }
 #ready-to-rwazi-text-section {
     text-align: left;
-    top: 50%;
+    /* top: 50%;
     translate: transformY(25%);
         -webkit-transform: translateY(25%);
-        -ms-transform: translateY(25%);
+        -ms-transform: translateY(25%); */
 }
 
 @media screen and (max-width: 1200px) {
