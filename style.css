@@ -253,10 +253,11 @@ a {
     grid-template-rows: 16% 16% 16% 16% 16% 16%   ;
     grid-template-columns: 10% 90%;    
     row-gap: 2em;
+    column-gap: 1em;
     justify-content: space-between;
     align-content: center;
     margin-top: e6m;
-    margin-left: 3em;
+    /* margin-left: 3em; */
 
 }
 #grow-company-grid p{
@@ -266,6 +267,7 @@ a {
 
 .teal-bullet-point {
     width: 2em;
+    margin-right: 1em;
 }
 #pricing-section {
     display: grid;
