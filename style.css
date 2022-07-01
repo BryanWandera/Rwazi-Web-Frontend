@@ -63,6 +63,9 @@ a {
     top: 0.5vh;
     position: absolute;
 }
+#logo-nav:hover {
+    opacity: 0.6;
+}
 #nav-links {
     position: absolute;
     right: 5vw;
@@ -389,6 +392,9 @@ a {
         display: inline-block;
         z-index: 10;
     }
+        #motif-behind-hero-2 {
+            display: none;
+        }
 
     #brand-logos-mobile {
         display: inline-block;
@@ -401,12 +407,20 @@ a {
     }
 
     h1 {
-        font-size: 3em;
+        font-size: 2.2em;
     }
 
     h2 {
-        font-size: 2.5em;
+        font-size: 1.5em;
     }
+    .blue-h3 {
+            font-size: 1.2em;
+            font-weight: 600;
+            color: #066083;
+        }
+    #techstars-logo {
+        width: 10em;
+     }
 
     .body-text-container {
         margin-left: 4vw;
@@ -428,11 +442,7 @@ a {
 
     }
 
-    .blue-h3 {
-        font-size: 2.1em;
-        font-weight: 600;
-        color: #066083;
-    }
+    
     #price-cards-grid {
             display: inline-grid;
             grid-template-columns: 100%;
@@ -452,12 +462,34 @@ a {
         width: 20em;
 
 }
+#closer-look-section {
+    height: 120vh;
+}
 #closer-look-body-text-container h2{
     margin-top: 0;
 }
 .teal-button {
-    margin-right: 0; }
-    
+    margin-right: 0;  
+        padding-left: 2em;
+        padding-right: 2em;
+        width: 14em;
+        padding-top: 0.4em;
+        padding-bottom: 0.4em;              
+        margin-top: 1em;
+       
+
+
+}
+    .naked-button {
+        margin-right: 0;
+            padding-left: 2em;
+            padding-right: 2em;
+            width: 14em;
+            padding-top: 0.4em;
+            padding-bottom: 0.4em;        
+            margin-top: 1em;
+            
+    }
         #ready-to-rwazi-grid {
             display: inline-grid;
             justify-items: center;
