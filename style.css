@@ -128,9 +128,9 @@ a {
 .teal-button {
     background-color: #066083;
     border: 2px solid #066083 ;
-    padding-left: 4em;
-    padding-right: 4em;
-    width: 16em;
+    padding-left: 2.5em;
+    padding-right: 2.5em;
+    width: 18em;
     padding-top: 1em;
     padding-bottom: 1em;
     border-radius: 35px;
@@ -146,7 +146,7 @@ a {
 .naked-button {
     background-color: white;
     border: 2px solid black;
-    width: 16em ;
+    width: 18em ;
     padding-left: 2.5em;
     padding-right: 2.5em;
     padding-top: 1em;
